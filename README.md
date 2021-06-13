@@ -17,8 +17,8 @@
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+<img href="https://www.java.com/" src="https://img.shields.io/badge/java-646464?style=for-the-badge&logo=java&logoColor=white" alt="java" /> </a> 
 <img href="https://spring.io/" src="https://img.shields.io/badge/spring-7fe96e?style=for-the-badge&logo=spring&logoColor=black" alt="springboot" /> </a> 
-<img href="https://www.java.com/" src="https://img.shields.io/badge/java-7fe96e?style=for-the-badge&logo=java&logoColor=white" alt="java" /> </a> 
 <img href="https://angular.io/" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" /> </a> 
  <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" /> </a> 
 <a href="https://angular.io/" target="_blank"> <img src="https://img.shields.io/badge/angular-dd0031?style=for-the-badge&logo=angular&logoColor=white" alt="angular" /></a> 
