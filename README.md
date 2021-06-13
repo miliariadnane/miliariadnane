@@ -38,7 +38,7 @@
 
 <h3>Here are some stats about my GitHub activity:</h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miliariadnane&layout=compact&show_icons=true&theme=radical)]
+[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miliariadnane&layout=compact&show_icons=true&theme=radical)
 
 <h3>My Projects:</h3>
 <p>
