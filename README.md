@@ -24,8 +24,8 @@
  <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" /> </a> 
 <a href="https://angular.io/" target="_blank"> <img src="https://img.shields.io/badge/angular-dd0031?style=for-the-badge&logo=angular&logoColor=white" alt="angular" /></a> 
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" /> </a>
-<a href="https://www.docker.com/" target="_blank"> <img src="https://img.shields.io/badge/docker-002c66?style=for-the-badge&logo=css3&logoColor=white" alt="docker" /> </a>
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=docker&logoColor=white" alt="css3" /> </a>
+<a href="https://www.docker.com/" target="_blank"> <img src="https://img.shields.io/badge/docker-002c66?style=for-the-badge&logo=docker&logoColor=white" alt="docker" /> </a>
+<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" /> </a>
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" /> </a>
 <a href="https://www.mysql.com" target="_blank"> <img src="https://img.shields.io/badge/mysql-316192?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" /> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" /> </a>
