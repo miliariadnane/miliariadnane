@@ -1,7 +1,7 @@
 <h2>Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">, I'm MILIARI Adnane, also known as Nano</h2>
 <h3>I'm full-stack developer, currently specialising in development of web application with Java and PHP with RESTful APIs </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=miliariadnane&label=Profile%20views&color=0e75b6&style=flat" alt="miliariadnane" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=miliariadnane&label=Profile%20views&color=0e75b6&style=flat" alt="miliariadnane" /> </p> -->
 
 - 🌱 I’m currently looking for a job.
 
