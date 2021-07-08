@@ -13,7 +13,7 @@
 
 - 📫 How to reach me: **miliari.adnane@gmail.com**
 
-<h3 align="left">Languages & Tools:</h3>
+<!-- <h3 align="left">Languages & Tools:</h3>
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
@@ -32,7 +32,7 @@
 <a href="https://npmjs.com/" target="_blank"> <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" /> </a>
 <a href="https://postman.com" target="_blank"> <img src="https://img.shields.io/badge/postman-E95723?style=for-the-badge&logo=postman&logoColor=white" alt="postman" /> </a>
 <a href="https://code.visualstudio.com" target="_blank"> <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vscode" /> </a>
-</p>
+</p> -->
 
 <h3>Where To Find Me:</h3>
 <p>
