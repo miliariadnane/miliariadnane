@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at my portfolio site : (http://miliari-adnane.com).
 
-<!-- - 💬 Ask me about Java, SpringBoot, PHP & JavaScript in general. -->
+- 💬 Ask me about Java, SpringBoot, PHP & ML/DL in general.
 
 - 📫 How to reach me: **miliari.adnane@gmail.com**
 
