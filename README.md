@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at my portfolio site (technical failure : Will be back to work soon) : http://miliari-adnane.com.
 
-- ✍️ Blogging on (https://miliari.me)
+- ✍️ Blogging on https://miliari.me
 
 - 💬 Ask me about Java, SpringBoot, PHP & ML/DL in general.
 
