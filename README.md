@@ -1,5 +1,5 @@
-<h2>Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">, I'm MILIARI Adnane</h2>
-<h3>I'm full-stack developer, currently specializing in the development of web application with Java and PHP, I'm also passionate with everything related to Artificial Intelligence, Machine Learning and Deep Learning</h3>
+<h2 align="center">Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">, I'm MILIARI Adnane</h2>
+<h3 align="center">I'm full-stack developer, currently specializing in the development of web application with Java and PHP, I'm also passionate with everything related to Artificial Intelligence, Machine Learning and Deep Learning</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=miliariadnane&label=Profile%20views&color=0e75b6&style=flat" alt="miliariadnane" /> </p> -->
 
