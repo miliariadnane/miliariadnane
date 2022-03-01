@@ -3,9 +3,7 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=miliariadnane&label=Profile%20views&color=0e75b6&style=flat" alt="miliariadnane" /> </p> -->
 
-- 🌱 I’m currently looking for a job.
-
-- 👨‍💻 All of my projects are available at my portfolio site (technical failure : Will be back to work soon) : http://miliari-adnane.com.
+- 🌱 I’m currently looking for a job
 
 - ✍️ Blogging on https://miliari.me
 
