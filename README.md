@@ -13,7 +13,7 @@
 - 📫 How to reach me: 
 <p align="center">
   [<img src="https://img.shields.io/badge/LinkedIn-adnane-miliari-776625114-informational?style=for-the-badge&labelColor=black&logo=linkedin&logoColor=cd5c5c&&color=cd5c5c"/>][linkedin]
-  [<img src="https://img.shields.io/badge/Twitter-@miliariadnane-informational?style=for-the-badge&labelColor=black&logo=twitter&logoColor=5b84c4&color=5b84c4"/>[[twitter]
+  [<img src="https://img.shields.io/badge/Twitter-@miliariadnane-informational?style=for-the-badge&labelColor=black&logo=twitter&logoColor=5b84c4&color=5b84c4"/>][twitter]
   [<img src="https://img.shields.io/badge/Gmail-miliari.adnane@gmail.com-informational?style=for-the-badge&labelColor=black&logo=gmail&logoColor=2c599D&&color=2c599D"/>][gmail]
 </p>
 
@@ -25,3 +25,9 @@
 <p>
 Check the pinned repositories below. 👇
 </p>
+
+<!-- Links of Definitions -->
+
+[linkedin]: https://www.linkedin.com/in/adnane-miliari-776625114
+[gmail]: mailto:miliari.adnane@gmail.com@gmail.com
+[twitter]: https://twitter.com/miliariadnane
