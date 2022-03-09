@@ -12,9 +12,9 @@
     - DevOps & AI 
 - 📫 How to reach me: 
 <p align="center">
-  <img src="https://img.shields.io/badge/LinkedIn-adnane-miliari-776625114-informational?style=for-the-badge&labelColor=black&logo=linkedin&logoColor=cd5c5c&&color=cd5c5c"/>
-  <img src="https://img.shields.io/badge/Twitter-@miliariadnane-informational?style=for-the-badge&labelColor=black&logo=twitter&logoColor=5b84c4&color=5b84c4"/>
-  <img src="https://img.shields.io/badge/Gmail-miliari.adnane@gmail.com-informational?style=for-the-badge&labelColor=black&logo=gmail&logoColor=2c599D&&color=2c599D"/>
+  [<img src="https://img.shields.io/badge/LinkedIn-adnane-miliari-776625114-informational?style=for-the-badge&labelColor=black&logo=linkedin&logoColor=cd5c5c&&color=cd5c5c"/>][linkedin]
+  [<img src="https://img.shields.io/badge/Twitter-@miliariadnane-informational?style=for-the-badge&labelColor=black&logo=twitter&logoColor=5b84c4&color=5b84c4"/>[[twitter]
+  [<img src="https://img.shields.io/badge/Gmail-miliari.adnane@gmail.com-informational?style=for-the-badge&labelColor=black&logo=gmail&logoColor=2c599D&&color=2c599D"/>][gmail]
 </p>
 
 <h3>Here are some stats about my GitHub activity:</h3>
