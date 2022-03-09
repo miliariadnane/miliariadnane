@@ -3,17 +3,18 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=miliariadnane&label=Profile%20views&color=0e75b6&style=flat" alt="miliariadnane" /> </p> -->
 
-- 🌱 I’m currently looking for a job
-
+- 💻 I’m currently software Engineer @Akka technologies
 - ✍️ Blogging on https://miliari.me
-
-- 💬 Ask me about Java, SpringBoot, PHP & ML/DL in general.
-
-- 📫 How to reach me: **miliari.adnane@gmail.com**
-
-<h3>Where To Find Me:</h3>
-<p>
-<p><a href="https://github.com/miliariadnane" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/miliariadnane" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/adnane-miliari-776625114/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+- 🔭 I’m looking to collaborate on open source and share with developers
+- 💬 Ask me about (if I can help, sure ! I will do):
+    - Software Engineering And Web development
+    - Java ecosystem (Spring, Spring boot, ...)
+    - DevOps & AI 
+- 📫 How to reach me: 
+<p align="center">
+  <img src="https://img.shields.io/badge/LinkedIn-adnane-miliari-776625114-informational?style=for-the-badge&labelColor=black&logo=linkedin&logoColor=cd5c5c&&color=cd5c5c"/>
+  <img src="https://img.shields.io/badge/Twitter-@miliariadnane-informational?style=for-the-badge&labelColor=black&logo=twitter&logoColor=5b84c4&color=5b84c4"/>
+  <img src="https://img.shields.io/badge/Gmail-miliari.adnane@gmail.com-informational?style=for-the-badge&labelColor=black&logo=gmail&logoColor=2c599D&&color=2c599D"/>
 </p>
 
 <h3>Here are some stats about my GitHub activity:</h3>
