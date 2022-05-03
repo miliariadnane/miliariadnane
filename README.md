@@ -3,8 +3,12 @@
 
 * 💻 I’m currently software Engineer @Akka technologies
 * ✍️ Blogging on https://miliari.me
-* 🤝 I'm open to collaborating on open source projects
 * ✉️  You can contact me at [miliari.adnane@gmail.com](mailto:miliari.adnane@gmail.com)
+* 🤝 I'm open to collaborating on open source projects
+* 💬 Ask me about (if I can help, sure ! I will do):
+  - Software Engineering And Web development
+  - Java ecosystem (Spring, Spring boot, ...)
+  - DevOps & AI
 
 ### Socials
 
