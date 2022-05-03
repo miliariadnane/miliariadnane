@@ -3,17 +3,16 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=miliariadnane&label=Profile%20views&color=0e75b6&style=flat" alt="miliariadnane" /> </p> -->
 
-- 💻 I’m currently software Engineer @Akka technologies
-- ✍️ Blogging on https://miliari.me
-- 🔭 I’m looking to collaborate on open source and share with developers
-- 💬 Ask me about (if I can help, sure ! I will do):
-    - Software Engineering And Web development
-    - Java ecosystem (Spring, Spring boot, ...)
-    - DevOps & AI 
-- 📫 How to reach me: 
- <p align="center">
-  <a href="https://twitter.com/adnane_miliari" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/adnane-miliari-776625114/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
+* 💻 I’m currently software Engineer @Akka technologies
+* ✍️ Blogging on https://miliari.me
+* 🤝 I'm open to collaborating on open source projects
+* ✉️  You can contact me at [miliari.adnane@gmail.com](mailto:miliari.adnane@gmail.com)
+
+### Socials
+
+📫 How to reach me:
+
+<p align="left"> <a href="https://www.github.com/miliariadnane" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/miliariadnane" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/miliariadnane" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 <h3>Here are some stats about my GitHub activity:</h3>
 
@@ -23,9 +22,3 @@
 <p>
 Check the pinned repositories below. 👇
 </p>
-
-<!-- Links of Definitions -->
-
-[linkedin]: https://www.linkedin.com/in/adnane-miliari-776625114
-[gmail]: mailto:miliari.adnane@gmail.com@gmail.com
-[twitter]: https://twitter.com/miliariadnane
